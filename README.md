@@ -32,7 +32,7 @@ This challenge involves utilizing SparkSQL to analyze home sales data and derive
 The repository is structured as follows:
 
 - **README.md:** Overview of the project, its structure, and usage instructions.
-- **Home_Sales_Colab.ipynb:** Google Colab notebook containing PySpark code for data analysis and SparkSQL queries.
+- **Home_Sales_Colab.ipynb:** Jupyter notebook (intended to run in Google Colab) containing PySpark code for data analysis and SparkSQL queries.
 - **.gitignore:** File to exclude sensitive files and folders from version control.
 
 ## Tools Used
